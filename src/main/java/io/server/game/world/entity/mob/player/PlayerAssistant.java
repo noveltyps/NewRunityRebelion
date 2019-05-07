@@ -159,9 +159,9 @@ public class PlayerAssistant {
 		player.getCombat().resetTimers(-CombatConstants.COMBAT_LOGOUT_COOLDOWN);
 		player.send(new SendEntityFeed(null, 0, 0));
 		player.send(
-				new SendString(PlayerRight.isManagement(player) ? "Open management panel" : "www.brutalos.org", 29404));
+				new SendString(PlayerRight.isManagement(player) ? "Open management panel" : "www.RebelionXos.org", 29404));
 		player.send(new SendTooltip(
-				PlayerRight.isPriviledged(player) ? "Open management panel" : "Open website www.brutalos.org", 29404));
+				PlayerRight.isPriviledged(player) ? "Open management panel" : "Open website www.RebelionXos.org", 29404));
 		player.send(new SendSpecialAmount());
 		InterfaceWriter.write(new InformationWriter(player));
 	}
@@ -439,7 +439,7 @@ public class PlayerAssistant {
 	}
 
 	private void disableAttack() {
-		if (player.brutalMode || Area.inBattleRealm(player)) {
+		if (player.RebelionXMode || Area.inBattleRealm(player)) {
 			return;
 		}
 		player.send(new SendPlayerOption(PlayerOption.ATTACK, false, true));

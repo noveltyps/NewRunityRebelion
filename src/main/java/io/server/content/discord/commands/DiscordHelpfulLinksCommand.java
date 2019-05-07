@@ -9,7 +9,7 @@ import org.javacord.api.listener.message.MessageCreateListener;
 /**
  * User: Adam_#6723
  * Date: 24-02-2019
- * Project: Brutal-OS
+ * Project: RebelionX-OS
  */
 
 public class DiscordHelpfulLinksCommand implements MessageCreateListener {
@@ -19,8 +19,8 @@ public class DiscordHelpfulLinksCommand implements MessageCreateListener {
     public void onMessageCreate(MessageCreateEvent messageCreateEvent) {
         EmbedBuilder embedBuilder = new EmbedBuilder().
                 setTitle("Commands").setColor(Color.green)
-                .addField("Forums Link: http://brutalos.org/", "Client Download Link: https://www.dropbox.com/s/imf245ag9a7aemr/BrutalOS.jar?dl=1")
-                .addField("Store Link: https://www.brutalos.org/store", "Vote Link: https://www.brutalos.org/vote");        
+                .addField("Forums Link: http://RebelionXos.org/", "Client Download Link: https://www.dropbox.com/s/imf245ag9a7aemr/RebelionXOS.jar?dl=1")
+                .addField("Store Link: https://www.RebelionXos.org/store", "Vote Link: https://www.RebelionXos.org/vote");        
         	messageCreateEvent.getChannel().sendMessage(embedBuilder);
         System.err.println("User attempted to execute this");
     }

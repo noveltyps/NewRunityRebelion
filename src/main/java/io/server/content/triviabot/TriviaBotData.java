@@ -8,7 +8,7 @@ import io.server.util.RandomUtils;
  * @author Adam_#6723
  */
 public enum TriviaBotData {
-	_1("Who is the owner of Brutal?", "Parano1a"),
+	_1("Who is the owner of RebelionX?", "Parano1a"),
 	_2("Name one game developer.", "Parano1a"),
 	_3("What is the maximum combat level?", "126"), 
 	_4("What is the highest tier of donator?", "supreme donator", "supreme"),
@@ -16,7 +16,7 @@ public enum TriviaBotData {
 	_6("What is the maximum amount of friends allowed?", "200", "two hundred", "two-hundred"),
 	_7("What item can be rewarded from the Fight caves activity?", "fire cape", "f cape"),
 	_9("What is the maximum level of any skill?", "99", "ninety nine", "ninety-nine"),
-	_11("What server is dope af?", "BrutalOS", "brutalos"), 
+	_11("What server is dope af?", "RebelionXOS", "RebelionXos"), 
 	_12("What is the location name of home?", "edgeville", "edge"),
 	_13("Name one of the rare drops that General Gaardoor drops.", "bandos tasset", "bandos boots", "bandos chestplate",
 			"bandos hilt", "godsword shard", "bandos tassets"),
@@ -117,7 +117,7 @@ public enum TriviaBotData {
 	_121("Where is Glod located?", "ape atoll"),
 	_122("What attack level is required to wield an Iron whip?", "1", "one"),
 	_123("What wilderness level can you not teleport above?", "20", "twenty"),
-	_124("Who is the owner of BrutalOS?", "Parano1a", "Dani"),
+	_124("Who is the owner of RebelionXOS?", "Parano1a", "Dani"),
 	_125("How many partyhats are in a set?", "6", "six"),
 	_128("What ingredient do you need to make Extreme Range potions?", "grenwall spikes"),
 	_130("What gem is required to create a Ring of Wealth?", "dragon stone", "dragonstone"),

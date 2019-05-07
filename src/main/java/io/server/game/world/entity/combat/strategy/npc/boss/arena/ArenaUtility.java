@@ -28,14 +28,14 @@ public class ArenaUtility {
 		Npc arena = new Npc(5129, spawn.position, 10, Direction.NORTH);
 		World.sendMessage("<col=8714E6>[ARENA EVENT] arena has just spawned! He is located at " + spawn.location + "!",
 				"<col=8714E6> First clan to kill him will be rewarded handsomely!");
-		World.sendMessage("to enter the arena do ::arena and rid this beast from the world of Brutal!");
+		World.sendMessage("to enter the arena do ::arena and rid this beast from the world of RebelionX!");
 		World.sendBroadcast(1, "The Arena boss has spawned enter by doing ::arena", true);
 		World.sendArenaInformation();
 		arena.register();
 		arena.definition.setRespawnTime(-1);
 		arena.definition.setAggressive(true);
 		arena.speak("Darkness is here to penetrate your souls!");
-		new DiscordManager(DiscordConstant.PUBLIC_BOSS_EVENTS, "Boss Event", "to enter the arena do ::arena and rid this beast from the world of Brutal!").log1();
+		new DiscordManager(DiscordConstant.PUBLIC_BOSS_EVENTS, "Boss Event", "to enter the arena do ::arena and rid this beast from the world of RebelionX!").log1();
 		return arena;
 	}
 

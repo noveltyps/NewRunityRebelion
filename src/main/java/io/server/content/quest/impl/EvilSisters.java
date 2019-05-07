@@ -51,7 +51,7 @@ public class EvilSisters extends Quest {
 			break;
 		case 1:
 			player.send(new SendString("I have talked with Scared Skavid and he explained what", 37112));
-			player.send(new SendString("must be done to save Brutal and lift the curse!", 37113));
+			player.send(new SendString("must be done to save RebelionX and lift the curse!", 37113));
 			player.send(new SendString("This will open the gateway to the evil sisters lair!", 37114));
 			break;
 		case 2:

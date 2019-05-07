@@ -57,7 +57,7 @@ import io.server.util.generic.GenericAttributes;
  */
 public abstract class Mob extends Entity {
 	public int activityDamage;
-	public boolean brutalMode;
+	public boolean RebelionXMode;
 	private int listIndex;
 	public int id = -1;
 	//private int transformId;

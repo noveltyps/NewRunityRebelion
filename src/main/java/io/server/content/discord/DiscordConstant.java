@@ -3,7 +3,7 @@ package io.server.content.discord;
 /**
  * User: Adam_#6723
  * Date: 24-02-2019
- * Project: Brutal-OS
+ * Project: RebelionX-OS
  */
 
 public class DiscordConstant {

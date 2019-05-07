@@ -268,7 +268,7 @@ public class ObjectFirstClickPlugin extends PluginContext {
 			break;
 			
 		case 8720:
-			player.send(new SendURL("https://www.brutalos.org/vote"));
+			player.send(new SendURL("http://www.rebelionx.net/vote"));
 			break;
 				
 
@@ -494,7 +494,7 @@ public class ObjectFirstClickPlugin extends PluginContext {
 
 		case 24064:
 			player.move(new Position(3046, 3372, 0));
-			player.message("Welcome to Brutal's Gambling zone!");
+			player.message("Welcome to RebelionX's Gambling zone!");
 			break;
 
 		case 4151:

@@ -67,7 +67,7 @@ public final class VoteService {
 			} else {
 				AchievementHandler.activate(player, AchievementKey.VOTE);
 				player.dialogueFactory.sendStatement("Thank-you for your support, " + player.getName() + "!").execute();
-				World.sendMessage("<col=CF2192>Brutal: <col=" + player.right.getColor() + ">" + player.getName()
+				World.sendMessage("<col=CF2192>RebelionX: <col=" + player.right.getColor() + ">" + player.getName()
 						+ " </col>has just voted! They have voted a total of <col=CF2192>" + player.totalVotes
 						+ " </col>times.");
 			}

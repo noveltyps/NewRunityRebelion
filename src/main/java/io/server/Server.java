@@ -115,7 +115,7 @@ public final class Server {
 		new StoreParser().run();
 		new GlobalObjectParser().run();
 		PunishmentExecuter.init();
-		new Discord().start();
+		//new Discord().start();
 		try {
 			Referals.load();
 		} catch (Exception e) {

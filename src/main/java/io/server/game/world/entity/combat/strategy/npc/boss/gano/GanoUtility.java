@@ -23,7 +23,7 @@ public class GanoUtility {
 		Npc gano = new Npc(REPLACE_THIS, spawn.position, 10, Direction.NORTH);
 		World.sendMessage("<col=8714E6> Wr3ckedyouboss has just spawned! He is located at " + spawn.location + "!",
 				"<col=8714E6> First clan to kill him will be rewarded handsomely!");
-		World.sendMessage("to enter the gano do ::wr3ckedyouboss and rid this beast from the world of Brutal!");
+		World.sendMessage("to enter the gano do ::wr3ckedyouboss and rid this beast from the world of RebelionX!");
 		World.sendBroadcast(1, "The gano boss has spawned enter by doing ::wr3ckedyouboss", true);
 		gano.register();
 		gano.definition.setRespawnTime(-1);

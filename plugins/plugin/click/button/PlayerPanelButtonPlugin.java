@@ -51,7 +51,7 @@ public class PlayerPanelButtonPlugin extends PluginContext {
 		if(button == -5099) {
 			player.move(new Position(3086, 3485, 0));
 			player.message("@red@ Click the portal to enter the minigame!");
-			player.message("@red@best money maker on Brutal");
+			player.message("@red@best money maker on RebelionX");
 		}
 		if(button == -5095) {
 			player.dialogueFactory.sendOption("AFK-Mining", () -> {

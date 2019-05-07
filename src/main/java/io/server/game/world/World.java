@@ -105,7 +105,7 @@ public final class World {
 
 	/** Saves all the game data. */
 	public static void save() {
-		System.out.println("Saving BrutalOS...");
+		System.out.println("Saving RebelionXOS...");
 		get().players.forEach(PlayerSerializer::save);
 		logger.info("All players were successfully saved.");
 		GlobalRecords.save();
@@ -479,7 +479,7 @@ public final class World {
 	public static void sendBroadcast(int time, String message, boolean countdown) {
 		get().players.stream().forEach($it -> {
 			$it.send(new SendGameMessage(countdown ? 0 : 1, time, Utility.capitalizeSentence(message)));
-			$it.send(new SendMessage("[<col=2C7526>BrutalOS</col>]" + Utility.capitalizeSentence(message)));
+			$it.send(new SendMessage("[<col=2C7526>RebelionXOS</col>]" + Utility.capitalizeSentence(message)));
 		});
 	}
 

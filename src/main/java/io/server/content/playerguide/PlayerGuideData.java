@@ -10,26 +10,26 @@ package io.server.content.playerguide;
 public enum PlayerGuideData {
 
 	Introduction(-9485, PlayerGuideDifficulty.EASY, "Introduction",
-			new String[] { "If you need any information,", "based on BrutalOS, select one of the options"," shown in our navigation bar",
+			new String[] { "If you need any information,", "based on RebelionXOS, select one of the options"," shown in our navigation bar",
 					"on the left hand side", "", "I will then give you information on",
 					"the topic within this section.", }),
 
 	Economy_Information(-9484, PlayerGuideDifficulty.EASY, "Main Currency?",
 			new String[] { "Our economy is built by the players,", "We have introduced 1Bill and 500 Mill Tickets.",
 					"Bosses mainly drop these tickets", "They can also be obtained from Mystery boxes",
-					"From donating and from voting.", "They can be spent in various shops ", "all over BrutalOS",
+					"From donating and from voting.", "They can be spent in various shops ", "all over RebelionXOS",
 					"such as the Rare Store and Customs store", "& PVM & Misc Items Store!", "", "", "", "", "", "", "",
 					"", "" }),
 
 	Money_Making(-9483, PlayerGuideDifficulty.EASY, "Making Bank?", 
-			new String[] { "There are various ways in which a,", "player can obtain money on BrutalOS.",
-			"One of most effective ways is PvM'ing", "& Skilling.", "BrutalOS has over 30+ Bosses.",
+			new String[] { "There are various ways in which a,", "player can obtain money on RebelionXOS.",
+			"One of most effective ways is PvM'ing", "& Skilling.", "RebelionXOS has over 30+ Bosses.",
 			"NPC Drops can be found by using ::drops", "teleports can be accessed with the","teleport button under the minimap.",
 			"Customs can be obtained from these bosses,", "aswell as Mystery boxes."}),
 
 	Voting(-9482, PlayerGuideDifficulty.EASY, "Voting",
 			new String[] { "Use ::vote to vote for us",
-					"Voting for our server will increase", "the amount of players on BrutalOS.", "",
+					"Voting for our server will increase", "the amount of players on RebelionXOS.", "",
 					"Voting will also allow you to recieve vote", "points which can use to obtain various,",
 					"items from the voting store!.", "", "", "", "", "", "", "", "", "" }),
 
@@ -65,12 +65,12 @@ public enum PlayerGuideData {
 					"", "", "" }),
 
 	Donate(-9475, PlayerGuideDifficulty.EASY, "Donate",
-			new String[] { "You can help support BrutalOS ",
+			new String[] { "You can help support RebelionXOS ",
 					"and help it grow by donating.", "You will be rewarded alot of wealth.", "There are also tonnes of perks", "for Donators!",
 					"Type in ::store to view the full list of perks!", "", "", "", "", "", "", "", "", "" }),
 
 	Help_me(-9474, PlayerGuideDifficulty.EASY, "Help me",
-			new String[] { "- Contact a staff member on ::staff", "- Ask a question in the BrutalOS clan chat for",
+			new String[] { "- Contact a staff member on ::staff", "- Ask a question in the RebelionXOS clan chat for",
 					"other veteran players to answer you.", "- Contat a staff member on ::discord",
 					"- Ask for help on the ::forums", "", "", "", "", "", "", "", "", "" }),
 	

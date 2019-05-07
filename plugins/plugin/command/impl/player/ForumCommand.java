@@ -8,7 +8,7 @@ public class ForumCommand implements Command {
 
 	@Override
 	public void execute(Player player, String command, String[] parts) {
-		player.send(new SendURL("https://www.brutalos.org/forums"));
+		player.send(new SendURL("http://www.rebelionx.net/forums"));
 	}
 
 	@Override

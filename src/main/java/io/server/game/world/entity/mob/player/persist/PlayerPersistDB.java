@@ -1696,15 +1696,15 @@ public final class PlayerPersistDB implements PlayerPersistable {
 				}
 			},
 
-			new PlayerJSONProperty("brutal-mode") {
+			new PlayerJSONProperty("RebelionX-mode") {
 				@Override
 				void read(Player player, JsonElement property) {
-					player.brutalMode = property.getAsBoolean();
+					player.RebelionXMode = property.getAsBoolean();
 				}
 
 				@Override
 				Object write(Player player) {
-					return player.brutalMode;
+					return player.RebelionXMode;
 				}
 			} };
 	

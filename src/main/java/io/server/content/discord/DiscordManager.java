@@ -7,7 +7,7 @@ import org.javacord.api.entity.message.embed.EmbedBuilder;
 import io.server.game.world.entity.mob.player.Player;
 
 /**
- * User: Adam_#6723 Date: 24-02-2019 Project: Brutal-OS
+ * User: Adam_#6723 Date: 24-02-2019 Project: RebelionX-OS
  */
 
 public class DiscordManager {

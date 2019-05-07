@@ -25,7 +25,7 @@ import io.server.net.packet.out.SendString;
 import io.server.util.Utility;
 
 /**
- * Handles teleporting to various locations around Brutal.
+ * Handles teleporting to various locations around RebelionX.
  *
  * @author Daniel
  * @edit Adam/adameternal123

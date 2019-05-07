@@ -29,14 +29,14 @@ public class VoteDialogue extends Dialogue {
 		factory.sendOption("WHY ARE YOU SCREAMING?", () -> {
 			factory.sendPlayerChat("WHY ARE YOU SCREAMING?");
 			factory.sendNpcChat(7481, "HAVE YOU SEEN WHAT I'M WEARING?", "WHO THE HELL PUT THIS CRAP ON ME!??",
-					"WHY AM I THE VOTE NPC FOR BRUTAL?", "I HAVE NO IDEA WHAT IS GOING ON AND I'M SCARED!");
+					"WHY AM I THE VOTE NPC FOR RebelionX?", "I HAVE NO IDEA WHAT IS GOING ON AND I'M SCARED!");
 		}, "Exchange vote token", () -> {
 			World.schedule(1, () -> player.send(new SendInputAmount("How many vote tokens would you like to exchange?",
 					10, input -> exchange(factory, Integer.parseInt(input)))));
 		}, "Show me your voting store!", () -> {
-			Store.STORES.get("Brutal Vote Store").open(player);
+			Store.STORES.get("RebelionX Vote Store").open(player);
 		}, "I would like to vote to support this great server!", () -> {
-			player.send(new SendURL("https://www.brutalos.org/forums"));
+			player.send(new SendURL("https://www.RebelionXos.org/forums"));
 			factory.sendNpcChat(7481, "THANK-YOU FOR VOTING!!!!");
 		}, "Nevermind, I don't want to do anything for this server.", () -> {
 			player.damage(new Hit(5, Hitsplat.CRITICAL, HitIcon.CANON));

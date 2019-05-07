@@ -77,7 +77,7 @@ public class NpcSecondClickPlugin extends PluginContext {
 			break;
 
 		case 7481:
-			Store.STORES.get("Brutal Vote Store").open(player);
+			Store.STORES.get("RebelionX Vote Store").open(player);
 			break;
 
 		case 1602:

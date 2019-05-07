@@ -38,7 +38,7 @@ public class GenieEvent extends RandomEvent {
 		}
 		if (event.getOpcode() == 0) {
 			int id = eventNpcIdentification();
-			player.dialogueFactory.sendNpcChat(id, "Take this lamp as a token of appreciation for playing", "Brutal.")
+			player.dialogueFactory.sendNpcChat(id, "Take this lamp as a token of appreciation for playing", "RebelionX.")
 					.onAction(() -> {
 						player.dialogueFactory.clear();
 						player.inventory.addOrDrop(new Item(2528, 1));

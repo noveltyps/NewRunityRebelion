@@ -61,7 +61,7 @@ public final class Logger {
 	public static void tag() {
 		System.out.println(" ");
 		System.out.println();
-		System.out.println("                                   Brutal Perfecting OSRS.  ");
+		System.out.println("                                   RebelionX Perfecting OSRS.  ");
 		System.out.println();
 		System.out.println("                             Parano1a and Dani.");
 		System.out.println();

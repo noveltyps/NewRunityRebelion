@@ -109,7 +109,7 @@ public class TutorialActivity extends Activity {
                 break;
             case 3:
                 player.face(guide.getPosition());
-                factory.sendNpcChat(306, "Welcome to <col=D63E3E>BrutalOS</col>, " + player.getName(), "Would you like a tutorial of our lands?");
+                factory.sendNpcChat(306, "Welcome to <col=D63E3E>RebelionXOS</col>, " + player.getName(), "Would you like a tutorial of our lands?");
                 factory.sendOption("Yes", () -> cooldown(1), "No", this::finish);
                 factory.execute();
                 pause();

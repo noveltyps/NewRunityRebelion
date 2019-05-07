@@ -764,7 +764,7 @@ public class Player extends Mob {
 		send(new SendPlayerDetails());
 		send(new SendCameraReset());
 		send(new SendExpCounter(skills.getExpCounter()));
-		message(String.format("Welcome to BrutalOS. ", Config.SERVER_NAME + ""));
+		message(String.format("Welcome to RebelionXOS. ", Config.SERVER_NAME + ""));
 		//message(String.format("There are currently %s players online.", World.getPlayerCount()));
 		//message(String.format("@red@Player Tip -@bla@ Do ::guide for an awesome money making guide! Get rich quick!!"));
 
@@ -971,7 +971,7 @@ public class Player extends Mob {
 		PluginManager.getDataBus().publish(this, new MovementEvent(getPlayer().getPosition().copy()));
 		send(new SendMultiIcon(Area.inMulti(this) ? 1 : -1));
 
-		if (brutalMode) {
+		if (RebelionXMode) {
 			send(new SendPlayerOption(PlayerOption.ATTACK, true));
 			send(new SendPlayerOption(PlayerOption.DUEL_REQUEST, false, true));
 		}
@@ -986,7 +986,7 @@ public class Player extends Mob {
 				interfaceManager.openWalkable(23400);
 			}
 
-			if (!this.brutalMode) {
+			if (!this.RebelionXMode) {
 				send(new SendPlayerOption(PlayerOption.ATTACK, true));
 				send(new SendPlayerOption(PlayerOption.DUEL_REQUEST, false, true));
 			}
@@ -1016,7 +1016,7 @@ public class Player extends Mob {
 
 			// clear
 		} else if (!inActivity()) {
-			if (!brutalMode) {
+			if (!RebelionXMode) {
 				send(new SendPlayerOption(PlayerOption.ATTACK, false, true));
 			}
 			send(new SendPlayerOption(PlayerOption.DUEL_REQUEST, false, true));

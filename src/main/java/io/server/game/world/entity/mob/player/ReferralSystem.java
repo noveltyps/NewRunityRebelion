@@ -21,7 +21,7 @@ public class ReferralSystem {
 
 	public static void handleReferral(Player player) {
 
-		player.send(new SendInputMessage("Who refered/Invited you to BrutalOS? Mention them for free Silver Box!", 20, input -> {
+		player.send(new SendInputMessage("Who refered/Invited you to RebelionXOS? Mention them for free Silver Box!", 20, input -> {
 			try {
 				linkReferral(player, input);
 			} catch (Exception e) {
@@ -82,7 +82,7 @@ public class ReferralSystem {
 		refer.sendMessage("Thank you for setting a referal!");
 		refer.refferalpoint += TOTAL_POINTS;
 		refer.inventory.add(6828, 1);
-		refer.sendMessage("You have recieved a Referral Mystery Box by Joining via an existing member on BrutalOS!");
+		refer.sendMessage("You have recieved a Referral Mystery Box by Joining via an existing member on RebelionXOS!");
         refer.sendMessage("Refer your friends over so you and them can both be given a referal point!");
 	}
 }

@@ -361,7 +361,7 @@ public class SkillManager {
 				// leveling up
 				showLevelUpInterface(player, skill);
 				if (newMax == 99)
-					World.sendMessage("<col=7B44B3>Brutal: <col=" + player.right.getColor() + ">" + player.getName()
+					World.sendMessage("<col=7B44B3>RebelionX: <col=" + player.right.getColor() + ">" + player.getName()
 							+ " </col>has just reached level 99 in <col=7B44B3>" + Skill.getName(skill.getSkill())
 							+ "</col>!");
 			} else {

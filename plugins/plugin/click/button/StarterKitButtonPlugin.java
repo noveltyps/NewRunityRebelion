@@ -100,7 +100,7 @@ public class StarterKitButtonPlugin extends PluginContext {
 		 * "What? No!", () -> { //Do nothing! }).execute();
 		 */
 
-		World.sendMessage("Welcome to BrutalOS @blu@" + player.getName() + "");
+		World.sendMessage("Welcome to RebelionXOS @blu@" + player.getName() + "");
 		player.send(new SendMessage(
 				"You will now be playing as " + Utility.getAOrAn(name) + " @blu@" + name + "@bla@ player."));
 		player.send(new SendMessage(

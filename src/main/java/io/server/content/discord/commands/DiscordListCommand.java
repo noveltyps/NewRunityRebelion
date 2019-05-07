@@ -11,7 +11,7 @@ import io.server.content.discord.DiscordCommands;
 /**
  * User: Adam_#6723
  * Date: 24-02-2019
- * Project: Brutal-OS
+ * Project: RebelionX-OS
  */
 
 public class DiscordListCommand implements MessageCreateListener {

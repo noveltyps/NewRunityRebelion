@@ -8,7 +8,7 @@ import org.javacord.api.entity.message.embed.EmbedBuilder;
 /**
  * User: Adam_#6723
  * Date: 24-02-2019
- * Project: Brutal-OS
+ * Project: RebelionX-OS
  */
 
 public class Discord {
@@ -21,7 +21,7 @@ public class Discord {
         api = new DiscordApiBuilder().setToken(DiscordConstant.BOT_KEY).login().join();
         new DiscordCommands();
 		EmbedBuilder embed = new EmbedBuilder()
-                .setTitle("Brutal OS")
+                .setTitle("RebelionX OS")
                 .addField("Client Id", String.valueOf(api.getClientId()), true)
                 .addField("Channels", String.valueOf(api.getChannels().size()), true)
                 .addField("Status", String.valueOf(api.getStatus()), true)

@@ -32,7 +32,7 @@ public class Donation {
 		setCredits(getCredits() + bond.credits);
 		player.message("<col=FF0000>You have claimed your donator bond. You now have "
 				+ Utility.formatDigits(getCredits()) + " donator credits!");
-		World.sendMessage("<col=CF2192>BrutalOS: <col=" + player.right.getColor() + ">" + player.getName()
+		World.sendMessage("<col=CF2192>RebelionXOS: <col=" + player.right.getColor() + ">" + player.getName()
 				+ " </col>has opened <col=CF2192>" + Utility.formatEnum(bond.name()) + "</col>! What a damn legend!");
 		updateRank(false);
 	}

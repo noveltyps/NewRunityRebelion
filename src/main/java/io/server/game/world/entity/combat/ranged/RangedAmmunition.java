@@ -327,46 +327,46 @@ public enum RangedAmmunition {
 		}
 	},
 
-	BRUTAL_BRONZE_ARROW(true, 4773) {
+	RebelionX_BRONZE_ARROW(true, 4773) {
 		@Override
 		protected CombatProjectile getProjectile() {
-			return getDefinition("Bronze brutal");
+			return getDefinition("Bronze RebelionX");
 		}
 	},
-	BRUTAL_IRON_ARROW(true, 4778) {
+	RebelionX_IRON_ARROW(true, 4778) {
 		@Override
 		protected CombatProjectile getProjectile() {
-			return getDefinition("Iron brutal");
+			return getDefinition("Iron RebelionX");
 		}
 	},
-	BRUTAL_BLACK_ARROW(true, 4783) {
+	RebelionX_BLACK_ARROW(true, 4783) {
 		@Override
 		protected CombatProjectile getProjectile() {
-			return getDefinition("Steel brutal");
+			return getDefinition("Steel RebelionX");
 		}
 	},
-	BRUTAL_STEEL_ARROW(true, 4788) {
+	RebelionX_STEEL_ARROW(true, 4788) {
 		@Override
 		protected CombatProjectile getProjectile() {
-			return getDefinition("Black brutal");
+			return getDefinition("Black RebelionX");
 		}
 	},
-	BRUTAL_MITHRIL_ARROW(true, 4793) {
+	RebelionX_MITHRIL_ARROW(true, 4793) {
 		@Override
 		protected CombatProjectile getProjectile() {
-			return getDefinition("Mithril brutal");
+			return getDefinition("Mithril RebelionX");
 		}
 	},
-	BRUTAL_ADAMANT_ARROW(true, 4798) {
+	RebelionX_ADAMANT_ARROW(true, 4798) {
 		@Override
 		protected CombatProjectile getProjectile() {
-			return getDefinition("Adamant brutal");
+			return getDefinition("Adamant RebelionX");
 		}
 	},
-	BRUTAL_RUNE_ARROW(true, 4803) {
+	RebelionX_RUNE_ARROW(true, 4803) {
 		@Override
 		protected CombatProjectile getProjectile() {
-			return getDefinition("Rune brutal");
+			return getDefinition("Rune RebelionX");
 		}
 	},
 

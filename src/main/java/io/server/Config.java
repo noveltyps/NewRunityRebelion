@@ -41,10 +41,10 @@ public final class Config {
 	public static boolean X4_EXPERIENCE;
 
 	/** The latest announcement thread link. */
-	public static final String LATEST_ANNOUNCEMENT_THREAD = "https://brutalos.org";
+	public static final String LATEST_ANNOUNCEMENT_THREAD = "https://RebelionXos.org";
 
 	/** The latest update thread link. */
-	public static final String LATEST_UPDATE_THREAD = "https://brutalos.org";
+	public static final String LATEST_UPDATE_THREAD = "https://RebelionXos.org";
 
 	/** The welcome marquee. */
 	public static final String[] WELCOME_MARQUEE = { "There are currently #players players online!",
@@ -56,7 +56,7 @@ public final class Config {
 
 	/** The welcome announcement. */
 	public static final String[] WELCOME_ANNOUNCEMENT = { "New Minigame!", "[ Nov 5th 2018 ]",
-			"Hello Brutal community. On", "05/11/18, we will be pushing", "more bug fixes" };
+			"Hello RebelionX community. On", "05/11/18, we will be pushing", "more bug fixes" };
 
 	public static final String[] WELCOME_UPDATE = { "Game Updates", "[ Nov 5th 2018 ]", "QoL Updates! & Double Threat,",
 			"Numerous bug fixes", "& much more!" };
@@ -387,7 +387,7 @@ public final class Config {
              "Did you know we have duo Slayer!!",
              "The vote store has been updated! make sure to ::vote",
              "Did you know we have fully functional pest control!",
-             "Did you know can play BrutalOS in HD! Go to settings -> Advanced Settings!",
+             "Did you know can play RebelionXOS in HD! Go to settings -> Advanced Settings!",
              "We have more settings you can change by going to extra settings",
          	"Donate OSRS By doing ::osrs in return for Bonds IN-Game!",
          	"Donate OSRS By doing ::osrs in return for Bonds IN-Game!",

@@ -235,7 +235,7 @@ public final class CombatUtil {
 			return false;
 		}
 
-		if (attacker.brutalMode && defender.brutalMode) {
+		if (attacker.RebelionXMode && defender.RebelionXMode) {
 			return true;
 		}
 		if (attacker.getCombat().isUnderAttack() && !attacker.getCombat().isUnderAttackBy(defender)) {
@@ -279,8 +279,8 @@ public final class CombatUtil {
 
 			int difference = (int) Math.abs(attacker.skills.getCombatLevel() - defender.skills.getCombatLevel());
 
-			if (attacker.brutalMode && !defender.brutalMode) {
-				attacker.send(new SendMessage("Sorry, " + defender.getName() + " is not a Brutal Man."));
+			if (attacker.RebelionXMode && !defender.RebelionXMode) {
+				attacker.send(new SendMessage("Sorry, " + defender.getName() + " is not a RebelionX Man."));
 				return false;
 			}
 
