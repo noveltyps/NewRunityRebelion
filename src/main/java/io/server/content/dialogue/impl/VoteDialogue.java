@@ -36,7 +36,7 @@ public class VoteDialogue extends Dialogue {
 		}, "Show me your voting store!", () -> {
 			Store.STORES.get("RebelionX Vote Store").open(player);
 		}, "I would like to vote to support this great server!", () -> {
-			player.send(new SendURL("https://www.RebelionXos.org/forums"));
+			player.send(new SendURL("https://www.RebelionX.org/forums"));
 			factory.sendNpcChat(7481, "THANK-YOU FOR VOTING!!!!");
 		}, "Nevermind, I don't want to do anything for this server.", () -> {
 			player.damage(new Hit(5, Hitsplat.CRITICAL, HitIcon.CANON));

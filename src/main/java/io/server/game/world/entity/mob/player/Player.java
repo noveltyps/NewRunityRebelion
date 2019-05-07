@@ -764,7 +764,7 @@ public class Player extends Mob {
 		send(new SendPlayerDetails());
 		send(new SendCameraReset());
 		send(new SendExpCounter(skills.getExpCounter()));
-		message(String.format("Welcome to RebelionXOS. ", Config.SERVER_NAME + ""));
+		message(String.format("Welcome to RebelionX. ", Config.SERVER_NAME + ""));
 		//message(String.format("There are currently %s players online.", World.getPlayerCount()));
 		//message(String.format("@red@Player Tip -@bla@ Do ::guide for an awesome money making guide! Get rich quick!!"));
 

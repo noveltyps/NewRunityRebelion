@@ -159,9 +159,9 @@ public class PlayerAssistant {
 		player.getCombat().resetTimers(-CombatConstants.COMBAT_LOGOUT_COOLDOWN);
 		player.send(new SendEntityFeed(null, 0, 0));
 		player.send(
-				new SendString(PlayerRight.isManagement(player) ? "Open management panel" : "www.RebelionXos.org", 29404));
+				new SendString(PlayerRight.isManagement(player) ? "Open management panel" : "www.RebelionX.org", 29404));
 		player.send(new SendTooltip(
-				PlayerRight.isPriviledged(player) ? "Open management panel" : "Open website www.RebelionXos.org", 29404));
+				PlayerRight.isPriviledged(player) ? "Open management panel" : "Open website www.RebelionX.org", 29404));
 		player.send(new SendSpecialAmount());
 		InterfaceWriter.write(new InformationWriter(player));
 	}

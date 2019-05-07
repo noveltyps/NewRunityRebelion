@@ -18,7 +18,7 @@ public class OsrsDonationCommand implements Command {
 	}
 
 	public void input(Player player) {
-		player.send(new SendInputMessage("Please enter your discord username so RebelionXOS Team can contact you", 20, string -> {
+		player.send(new SendInputMessage("Please enter your discord username so RebelionX Team can contact you", 20, string -> {
 			try {
 				sendEmail(player, string);
 			} catch (Exception e) {

@@ -23,7 +23,7 @@ public class StaffCommand implements Command {
 
 		player.send(new SendString("", 37113));
 		player.send(new SendString("", 37107));
-		player.send(new SendString("RebelionXOS Online Staff", 37103));
+		player.send(new SendString("RebelionX Online Staff", 37103));
 		player.send(new SendScrollbar(37110, length * 20));
 
 		for (int index = 0, string = 37112; index < length; index++, string++) {

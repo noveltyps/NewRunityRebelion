@@ -107,7 +107,7 @@ public class PrayerApp {
 			player.send(new SendString("In order to gain experience in the Prayer Skill,", 37114));
 			player.send(new SendString("players must use bones on the alter located at home.", 37115));
 			player.send(new SendString("Locations - ::home", 37107));
-			player.send(new SendString("RebelionXOS Prayer Guide", 37103));
+			player.send(new SendString("RebelionX Prayer Guide", 37103));
 			player.send(new SendScrollbar(37110, size * 50));
 			player.send(new SendItemOnInterface(37199, items));
 			player.interfaceManager.open(37100);

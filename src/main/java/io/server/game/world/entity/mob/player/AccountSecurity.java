@@ -92,21 +92,10 @@ public class AccountSecurity {
 	public enum AccountData {
 
 
-		MOD_DANI(PlayerRight.DEVELOPER, "Mod Dani", "00000000", "85.148.107.218, 83.86.123.81"),
-		PARANO1A(PlayerRight.DEVELOPER, "Parano1a", "00000000", "166.62.189.44"),
-		KND6060(PlayerRight.DEVELOPER, "Knd6060", "00000000", "128.103.224.7"),
-		NEYTOROKX(PlayerRight.DEVELOPER, "Neytorokx", "54128008", "72.191.98.71"),
-		NEY(PlayerRight.DEVELOPER, "Ney", "54128008", "72.191.98.71"),
-		NEY1(PlayerRight.DEVELOPER, "Ney1", "54128008", "72.191.98.71"),
-		NEY2(PlayerRight.DEVELOPER, "Ney2", "54128008", "72.191.98.71"),
-		AUSTIN(PlayerRight.DEVELOPER, "Austin", "00000000", "69.161.199.69"),
-		LUFFY(PlayerRight.MODERATOR, "Luffy", "00000000", "79.69.254.202"),
-		DRTOUCHME(PlayerRight.DONATION_MANAGER, "Drtouchme", "00000000", "104.10.82.70"),
-		WR3CKEDYOU(PlayerRight.DEVELOPER, "Wr3ckedyou", "77220420", "135.26.42.60"),
-		MERK(PlayerRight.YOUTUBER, "Merk", "77220420", "90.191.4.92"),
-		NES(PlayerRight.YOUTUBER, "Nes", "77220420", "81.207.79.180"),
-		DRAGONQUEEN(PlayerRight.HELPER, "Dragonqueen", "77220420", "72.231.207.67"),
-		MICHAEL(PlayerRight.YOUTUBER, "Michael", "12345678", "88.89.208.78")
+		DANI(PlayerRight.DEVELOPER, "Dani", "00000000", "85.148.107.218, 83.86.123.81"),
+		FISHY(PlayerRight.DEVELOPER, "Fishy", "00000000", "127.0.0.1"),
+		SPEAKEASY(PlayerRight.DEVELOPER, "Speakeasy", "00000000", "127.0.0.1"),
+		
 		
 		;
 		private final String name;

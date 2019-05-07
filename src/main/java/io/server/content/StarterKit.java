@@ -43,12 +43,12 @@ public class StarterKit {
 	public enum KitData {
 
 		NORMAL(PlayerRight.PLAYER, new String[] {
-				"", "Play RebelionXOS as a normal player.", "As a normal player you will have no restrictions at all." },
+				"", "Play RebelionX as a normal player.", "As a normal player you will have no restrictions at all." },
 				new Item[] { new Item(386, 300), new Item(1856, 1), new Item(565, 1000), new Item(555, 5000), new Item(560, 4000),
 						new Item(557, 4000), new Item(3025, 75), new Item(6686, 20), new Item(10028, 1), new Item(995, 1000000) }),
 
 		CLASSIC(PlayerRight.CLASSIC, new String[] {
-				"", "Play RebelionXOS as a Classic player.", "As a normal player you will have no restrictions at all." },
+				"", "Play RebelionX as a Classic player.", "As a normal player you will have no restrictions at all." },
 				new Item[] { new Item(10828, 1), new Item(1127, 1), new Item(1856, 1), new Item(1079, 1), new Item(3105),
 						new Item(386, 300), new Item(565, 1000), new Item(555, 5000), new Item(560, 4000),
 						new Item(557, 4000), new Item(3025, 75), new Item(6686, 20), new Item(12696, 10), new Item(841),

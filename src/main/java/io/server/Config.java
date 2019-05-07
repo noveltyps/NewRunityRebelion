@@ -41,10 +41,10 @@ public final class Config {
 	public static boolean X4_EXPERIENCE;
 
 	/** The latest announcement thread link. */
-	public static final String LATEST_ANNOUNCEMENT_THREAD = "https://RebelionXos.org";
+	public static final String LATEST_ANNOUNCEMENT_THREAD = "https://RebelionX.org";
 
 	/** The latest update thread link. */
-	public static final String LATEST_UPDATE_THREAD = "https://RebelionXos.org";
+	public static final String LATEST_UPDATE_THREAD = "https://RebelionX.org";
 
 	/** The welcome marquee. */
 	public static final String[] WELCOME_MARQUEE = { "There are currently #players players online!",
@@ -387,7 +387,7 @@ public final class Config {
              "Did you know we have duo Slayer!!",
              "The vote store has been updated! make sure to ::vote",
              "Did you know we have fully functional pest control!",
-             "Did you know can play RebelionXOS in HD! Go to settings -> Advanced Settings!",
+             "Did you know can play RebelionX in HD! Go to settings -> Advanced Settings!",
              "We have more settings you can change by going to extra settings",
          	"Donate OSRS By doing ::osrs in return for Bonds IN-Game!",
          	"Donate OSRS By doing ::osrs in return for Bonds IN-Game!",

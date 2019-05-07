@@ -3,7 +3,7 @@ package io.server.content.activity.annoucements;
 public enum AnnouncementData {
 
 	GUIDE("Do ::openguide to view a High Quality money making guide! Make Bank!"),
-	UPDATES("Check RebelionXOS's Discord #Updates to view our latest Updates!!"),
+	UPDATES("Check RebelionX's Discord #Updates to view our latest Updates!!"),
 	EVENTS_MONDAY("Did you know on Mondays, we give all of our players 15% Bonus Drop Rate Boost!"),
 	EVENTS_TUESDAY("Did you know on Tuesdays, we give all of our players Double PK Points!"),
 	EVENTS_WEDNESDAY("Did you know on Wednesdays, we give all of ours players Double AvO Tickets/Rewards!"),

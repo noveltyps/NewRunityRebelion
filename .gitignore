@@ -7,3 +7,5 @@ data/content/game/game_records.json
 data/content/game/world.json
 data/info.log
 *.class
+data/profile/world_profile_list.json
+data/profile/save/*
