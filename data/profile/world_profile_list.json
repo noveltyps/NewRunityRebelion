@@ -13384,13 +13384,12 @@
   },
   "Dani": {
     "name": "Dani",
-    "password": "loveManon23",
-    "lastHost": "85.148.107.218",
+    "password": "loveMyself23",
+    "lastHost": "127.0.0.1",
     "host": [
-      "173.80.54.41",
-      "85.148.107.218"
+      "127.0.0.1"
     ],
-    "rank": "HARDCORE_IRONMAN"
+    "rank": "PLAYER"
   },
   "Dani Alt": {
     "name": "Dani Alt",
