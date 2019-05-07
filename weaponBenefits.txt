@@ -1,0 +1,13 @@
+Zaros Set gives 15% less prayer drain rate, you do not need all the items to activate this
+
+Proselyte set gives less than 10% drain rate, you do not need all the items to activate this
+
+Chi/kril set gives less than 12.5% drain rate, you do not need all the items to activate this 
+&& also steals 25% of all incflicted damagte
+
+Every single custom item gives a 10% heal rate, on all inflicted damage.
+
+Soul set gives 50% heal rate and has a 50% lower drain rate.
+Soul set also gives 25% Drop rate bonus (Each piece gives 5%).
+
+Death Katana gives 20% Drop Rate bonus

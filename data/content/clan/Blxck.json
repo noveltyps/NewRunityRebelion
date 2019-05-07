@@ -1,0 +1,87 @@
+{
+  "owner": "Blxck",
+  "established": "2019/02/18",
+  "name": "Blxck",
+  "password": "",
+  "forum": "",
+  "slogan": "Generic slogan here",
+  "clan-tag": "",
+  "clan-type": "SOCIAL",
+  "clan-color": "<col=ffffff>",
+  "clan-points": 10,
+  "clan-experience": 20000.0,
+  "clan-level": "BRONZE",
+  "task-amount": 0,
+  "locked": false,
+  "lootshare": false,
+  "enter-rank": "MEMBER",
+  "talk-rank": "MEMBER",
+  "manage-rank": "LEADER",
+  "showcase": [
+    1155,
+    1117,
+    1075
+  ],
+  "showcase-items": [
+    1155,
+    1117,
+    1075
+  ],
+  "banned-members": [],
+  "members": [
+    {
+      "name": "Blxck",
+      "joined": "2019/02/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Cutie",
+      "joined": "2019/02/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Syndicate",
+      "joined": "2019/02/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "PhatCamElto",
+      "joined": "2019/02/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Carver319",
+      "joined": "2019/02/21",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Crack Bear",
+      "joined": "2019/02/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    }
+  ]
+}

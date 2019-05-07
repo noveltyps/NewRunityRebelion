@@ -1,0 +1,4 @@
+[Sat Mar 30 10:47:19 PDT 2019] - [Seeyagame480] [[Loop half of key : 1][Loop half of key : 1][Loop half of key : 1][Loop half of key : 1][Loop half of key : 1][Loop half of key : 1][Loop half of key : 1]] - [Brd 65] [[Tooth half of key : 7][Shark : 1][Shark : 1][Shark : 1]]
+[Sun Mar 31 20:41:08 PDT 2019] - [Seeyagame480] [[Coins : 50000000]] - [luffy] [[Toxic blowpipe (empty) : 1][Zulrah's scales : 5000]]
+[Sun Mar 31 20:41:08 PDT 2019] - [Seeyagame480] [] - [luffy] [[Dragon dart : 5000]]
+[Sun Mar 31 20:41:08 PDT 2019] - [Seeyagame480] [[Revenant ether : 997]] - [luffy] [[Coins : 100000000]]

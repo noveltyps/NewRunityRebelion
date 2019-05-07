@@ -1,0 +1,6 @@
+[Mon Dec 10 18:21:48 PST 2018] - [battousaixx] [[Dragon boots : 1]] - [battousai] [[Raptor Platelegs : 1][Raptor Platebody : 1][Raptor Helm : 1]]
+[Mon Dec 10 18:21:48 PST 2018] - [battousaixx] [[Loop half of key : 1]] - [battousai] [[Coins : 10000000]]
+[Mon Dec 10 18:21:48 PST 2018] - [battousaixx] [[Dragon whip : 1][Genie lamp : 1][Genie lamp : 1][Genie lamp : 1][Genie lamp : 1][Genie lamp : 1][Genie lamp : 1][Genie lamp : 1]] - [battousai] []
+[Mon Dec 10 18:21:48 PST 2018] - [battousaixx] [] - [Vitr3x] [[Infernal axe : 1]]
+[Wed Dec 19 03:53:11 PST 2018] - [battousaixx] [[Coins : 175000000]] - [battousai] []
+[Wed Dec 19 03:53:11 PST 2018] - [battousaixx] [] - [battousai] [[Elite torva body : 1][Elite torva helm : 1][Imperial platelegs : 1]]

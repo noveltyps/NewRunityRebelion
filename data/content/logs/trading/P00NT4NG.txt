@@ -1,0 +1,4 @@
+[Mon Dec 10 18:21:48 PST 2018] - [P00NT4NG] [] - [Vitr3x] [[Coins : 5000000][Raptor Helm : 1][Raptor Platebody : 1][Raptor Platelegs : 1]]
+[Mon Dec 10 18:21:48 PST 2018] - [P00NT4NG] [[Dragonfire shield : 1]] - [Vitr3x] []
+[Mon Dec 10 18:21:48 PST 2018] - [P00NT4NG] [] - [Vitr3x] [[Dragonfire shield : 1][Dragon bones : 1][Dragon bones : 1][Dragon bones : 1][Dragon bones : 1][Dragon bones : 1]]
+[Mon Dec 10 18:21:48 PST 2018] - [P00NT4NG] [[Ice katana : 1]] - [Vitr3x] [[Magma axe : 1]]

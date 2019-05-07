@@ -1,0 +1,1674 @@
+{
+  "owner": "Parano1a",
+  "established": "2019/04/16",
+  "name": "Brutal",
+  "password": "",
+  "forum": "",
+  "slogan": "Generic slogan here",
+  "clan-tag": "",
+  "clan-type": "SOCIAL",
+  "clan-color": "<col=ffffff>",
+  "clan-points": 1180,
+  "clan-experience": 4250000.0,
+  "clan-level": "RUNE",
+  "task-amount": 0,
+  "locked": true,
+  "lootshare": false,
+  "enter-rank": "MEMBER",
+  "talk-rank": "MEMBER",
+  "manage-rank": "LEADER",
+  "showcase": [
+    2605,
+    1117,
+    1075
+  ],
+  "showcase-items": [
+    1155,
+    1117,
+    1075,
+    2605,
+    4129,
+    2601
+  ],
+  "banned-members": [],
+  "members": [
+    {
+      "name": "Origin",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Daraluens",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Elite Mofo",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Ceqm",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Step1",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Jay",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Customer",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pvm",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Josmoo",
+      "joined": "2019/04/21",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Xrazor007",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Lewa93",
+      "joined": "2019/04/21",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Soulsplit2",
+      "joined": "2019/04/29",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pony",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Freedom",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pk2Max",
+      "joined": "2019/04/25",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Subtodaddy",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Luffy",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Michael",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "I Risk",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Fade2",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Luffyss",
+      "joined": "2019/04/28",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Anaal Nathrakh",
+      "joined": "2019/04/20",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dragonqueen",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Ubuv",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Lewa9",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Karvane",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Fuge",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Vibes",
+      "joined": "2019/04/20",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Bartors",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Zereal",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Wayne",
+      "joined": "2019/04/23",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Arie",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pradalewts",
+      "joined": "2019/04/26",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Wildy",
+      "joined": "2019/04/26",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Se7ven",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Kristjan682",
+      "joined": "2019/04/28",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Sir Lucas",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Capes",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Riddler",
+      "joined": "2019/04/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Toro",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Rkz",
+      "joined": "2019/04/20",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Ivanranger",
+      "joined": "2019/04/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pking50",
+      "joined": "2019/04/21",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dkdd",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Paratest23",
+      "joined": "2019/04/27",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Soul Split",
+      "joined": "2019/04/29",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Avoid Eaz",
+      "joined": "2019/04/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Nike",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Nik123",
+      "joined": "2019/04/27",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Fly",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Hichael",
+      "joined": "2019/04/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Txt Slave",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Katu",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Babe Im Wet",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "A Pker",
+      "joined": "2019/04/26",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Touch Me",
+      "joined": "2019/04/23",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Zerkarino",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Asseder",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Destinyfry12",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Apex",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Gffff",
+      "joined": "2019/04/21",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Cody Lucas",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Kingslayer",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Gfhfghfhf",
+      "joined": "2019/04/25",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Haruxi",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "God Of Rng",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Ernj",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dragon1",
+      "joined": "2019/04/29",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Codar",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Max Dark",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Cashbags",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Big Nut",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "MasterMouse",
+      "joined": "2019/04/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "PvP2Max",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Beans",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Iron Fuge",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Envy Me",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Penis",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Merk The Boss",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Genji",
+      "joined": "2019/04/20",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Knd6065",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Sick",
+      "joined": "2019/04/20",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Ashley",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Mednuts",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Brd 65",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Opening Shit",
+      "joined": "2019/04/23",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Hyco",
+      "joined": "2019/04/28",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Saint Vains",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Asdfasdf",
+      "joined": "2019/04/23",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Kems",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dontbedaft",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Med Nuts",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "PlagueDoc",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "JDKhaos",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "No Rng",
+      "joined": "2019/04/28",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Rng G0d",
+      "joined": "2019/04/28",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Mohmd",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Vape Me Bro",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pleikis12",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Turtlesquirt",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Testboss",
+      "joined": "2019/05/03",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "DamianReborn",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "PvM2Max",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Ezaf",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Isvares",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Girl",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dragonqueeenn",
+      "joined": "2019/04/24",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Savagery",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Xannysenpai",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Noor",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Neytorokx",
+      "joined": "2019/04/28",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Appen",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Zombie",
+      "joined": "2019/04/20",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Txt A",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Usipysk",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Deal",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Boy",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Hope1324",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Test44",
+      "joined": "2019/04/23",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Yoinks",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Fundmesomemore",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Ngl",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Hi All",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Tupac11",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Falk",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Fade",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Swampdog",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pkz",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Madman",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Mr Biggles",
+      "joined": "2019/04/18",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Chief",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Potatoman",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "12342345",
+      "joined": "2019/04/27",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Derrek",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Paratest66",
+      "joined": "2019/04/27",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Step",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Mohammed Jr",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Didlo",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Plsluck",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Wet Loli",
+      "joined": "2019/04/27",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Falk2",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "PrinGoals",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Falk3",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pet Wussy",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "MUSA",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Falk4",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "B M T",
+      "joined": "2019/04/25",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Falk5",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "R2ng3 D3a7h",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dylan Eaglessss",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "1234234",
+      "joined": "2019/04/27",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Skill4life",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Caner64",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "MrPointless",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Clone",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Brute",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Synn",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Pvm Mello",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Vannx",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Tammu",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Camel Bro",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Tiddo",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Slipers",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dylan Eagles",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Nyx",
+      "joined": "2019/04/17",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Happybday Para",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Fatal",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Evolve",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Fundmeboxes",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Rrrrrrrrr",
+      "joined": "2019/04/21",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Lvl126skills",
+      "joined": "2019/04/21",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Defijano",
+      "joined": "2019/04/16",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Yoursm8",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Baby Meow",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Skill",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Failatliving",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Gfme",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Hiyav1",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Wack",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Dylan Eagless",
+      "joined": "2019/04/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "I R O N Y",
+      "joined": "2019/04/20",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    },
+    {
+      "name": "Destiny",
+      "joined": "2019/04/19",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    }
+  ]
+}

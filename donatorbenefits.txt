@@ -1,0 +1,35 @@
+    /**
+     * List of perks that donators have.
+     * Di Zone
+     * Die Zone
+     * Portal Zone
+     * Free access to instances without paying for them.
+     * Normal Donators/Super Donators get X2 Slayer points.
+     * Extreme donators and elite get X3 Slayer points
+     * King and Supreme Donators get X4
+     * X2 Boss Points
+     * X2 Trivia Points
+     * X2 Pest Control points
+     * Donators get a chance to obtain a red crystal from pk'ing in wilderness
+     * Access to the donator Tab interface!
+     * Allowed to use the Deposit item box.
+     * Able to restore health and hp every 2 minutes.
+     * Access to giant roc and lava dragon tele's.
+     * Double EXP Overall.
+     * Donators can use the obelisk to navigate through the wilderness.
+     * Donators can lower stats.
+     * Access to the graceful store.
+     * Double Kolodin points
+     * 10% Drop rate applied for all donators.
+     * Elite donators get 15% Drop rate overall.
+     * Supreme & King donators get 20% Drop rate.
+     * Donators are allowed to block slayer tasks for free and cancel them.
+     * Super donators, get 12 Pk Points per kill
+     * Extreme donatores get 13 Pk Points per kill
+     * Elite Donators get 14 Pk Points per kill
+     * King donators get 15 Pk Points per kill
+     * Supreme Donators get 16 Pk Points per kill
+     * Access to slayer store shortcuts
+     * Access to the PK Store, with exclusive PK Items.
+     * Donators get Fire capes & Fighter Torso and Barrows glove & Fighter hat & Infernal cape for free.
+     */

@@ -1,0 +1,60 @@
+package plugin.click.object;
+
+import io.server.content.SecretsChest;
+import io.server.game.action.impl.SecretsChestAction;
+import io.server.game.event.impl.ItemOnItemEvent;
+import io.server.game.event.impl.ItemOnObjectEvent;
+import io.server.game.event.impl.ObjectClickEvent;
+import io.server.game.plugin.PluginContext;
+import io.server.game.world.entity.mob.player.Player;
+import io.server.net.packet.out.SendMessage;
+
+public class SecretsChestPlugin extends PluginContext {
+
+	
+
+	@Override
+	protected boolean firstClickObject(Player player, ObjectClickEvent event) {
+		if (event.getObject().getId() != 31576) {
+			return false;
+		}
+
+		if (!player.inventory.contains(SecretsChest.KEY)) {
+			player.dialogueFactory.sendItem("Secrets Key", "You need a Secrets key to enter this chest!",
+					SecretsChest.KEY.getId());
+			player.send(new SendMessage("You need a Secrets key to enter this chest!"));
+			return true;
+		}
+
+		if (player.inventory.remaining() < 3) {
+			player.send(new SendMessage("You need at lest 3 free inventory spaces to enter the chest."));
+			return true;
+		}
+
+		player.action.execute(new SecretsChestAction(player), true);
+		return true;
+	}
+
+	@Override
+	protected boolean itemOnObject(Player player, ItemOnObjectEvent event) {
+		if (event.getUsed().getId() == 3468 && event.getObject().getId() == 31576) {
+			if (!player.inventory.contains(SecretsChest.KEY)) {
+				player.dialogueFactory.sendItem("Screts Key", "You need a Secrets key to enter this chest!",
+						SecretsChest.KEY.getId());
+				player.send(new SendMessage("You need a Secrets key to enter this chest!"));
+				return true;
+			}
+
+			if (player.inventory.remaining() < 3) {
+				player.send(new SendMessage("You need at lest 3 free inventory spaces to enter the chest."));
+				return true;
+			}
+
+			player.action.execute(new SecretsChestAction(player), true);
+			return true;
+		}
+
+		return false;
+	}
+
+}

@@ -1,0 +1,4 @@
+[Fri Apr 19 18:51:34 PDT 2019] - [bartors] [[Vote token : 10]] - [luffy] [[Hefty tax bag : 3]]
+[Sun Apr 21 03:59:26 PDT 2019] - [bartors] [] - [lewa9] [[Coins : 375000000]]
+[Sun Apr 21 03:59:26 PDT 2019] - [bartors] [[Coins : 375000000]] - [lewa9] []
+[Sun Apr 21 03:59:26 PDT 2019] - [bartors] [] - [lewa9] [[Coins : 375000000]]

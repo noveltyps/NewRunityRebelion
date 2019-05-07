@@ -1,0 +1,74 @@
+[server]
+server_name = "Runity"
+server_port = 43594
+server_debug = false
+live_server = true
+test_world = false
+server_cycle_debug = false
+parallel_game_engine = false
+
+[services]
+highscores_enabled = true
+
+[client]
+cache_version = 2
+
+[game]
+skull_time = 720
+log_player = true
+npc_bits = 16
+npc_walking_radius = 5
+max_players = 2048
+max_npcs = 33000
+max_bots = 10
+npc_definition_limit = 8405
+item_definition_limit = 22538
+combat_modifier = 2500.0
+agility_modifier = 5.0
+cooking_modifier = 5.0
+crafting_modifier = 5.0
+firemaking_modifier = 5.0
+fletching_modifier = 5.0
+herblore_modifier = 5.0
+hunter_modifier = 5.0
+magic_modifier = 5.0
+mining_modifier = 5.0
+prayer_modifier =  5.0
+runecrafting_modifier = 5.0
+slayer_modifier = 5.0
+woodcutting_modifier = 5.0
+thieving_modifier = 5.0
+smithing_modifier = 10.0
+fishing_modifier = 5.0
+farming_modifier = 5.0
+
+[network]
+connection_limit = 5
+failed_login_attempts = 5
+failed_login_timeout = 1
+login_threshold = 20
+logout_threshold = 20
+client_packet_threshold = 30
+idle_timeout = 15
+display_packets = true
+resource_leak_detection = "DISABLED"
+rsa_modulus = "129656515373534060769879123769228372847823974016072034140430091956882453629725665137533466494074227306238272980160261100118909890311849834395042332861854309874137676245363104379631778767645595503017653585138351637672356019701762438143530591632912316524293446347148649838207474640616666290229479306891170863711"
+rsa_exponent = "85515096464913099116194289102719020039781974714202872815662766450039581582081753445685400448698574474146655317872763264303216198616502267295202783739775265266472493915751185347875272271840319701602216174564087401140649407432287373814343517230390747946491597805719765662653476706380724266657385751722254493673"
+
+[website]
+website_url = "http://runity.io"
+website_integration = false
+forum_db_url = "jdbc:mysql://runity.io:3306/runity_global"
+forum_db_user = "runity_root"
+forum_db_pass = "JNfIn3IvH5$V"
+
+[discord]
+token = "MzczOTYzMDU5NDc3MjE3Mjkx.DNaXwA.BhZzB5FnopplnSpfkW0cDcn_zXE"
+
+[postgre]
+postgre_url = "jdbc:postgresql://170.178.188.106:5432/frostblades"
+postgre_user = "root"
+postgre_pass = ""
+
+[vps]
+vps_ip = "127.0.0.1"

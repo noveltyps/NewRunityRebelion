@@ -1,0 +1,42 @@
+{
+  "owner": "Trueism",
+  "established": "2019/02/22",
+  "name": "Trueism",
+  "password": "",
+  "forum": "",
+  "slogan": "Generic slogan here",
+  "clan-tag": "Eco2",
+  "clan-type": "SOCIAL",
+  "clan-color": "<col=ffffff>",
+  "clan-points": 0,
+  "clan-experience": 0.0,
+  "clan-level": "BRONZE",
+  "task-amount": 0,
+  "locked": false,
+  "lootshare": false,
+  "enter-rank": "MEMBER",
+  "talk-rank": "MEMBER",
+  "manage-rank": "LEADER",
+  "showcase": [
+    1155,
+    1117,
+    1075
+  ],
+  "showcase-items": [
+    1155,
+    1117,
+    1075
+  ],
+  "banned-members": [],
+  "members": [
+    {
+      "name": "Trueism",
+      "joined": "2019/02/22",
+      "rank": "LEADER",
+      "exp-gained": 0.0,
+      "npc-kills": 0,
+      "player-kills": 0,
+      "total-level": 0
+    }
+  ]
+}
