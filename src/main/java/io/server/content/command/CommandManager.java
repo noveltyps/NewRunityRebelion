@@ -189,7 +189,7 @@ public class CommandManager {
 		PLUGIN.putIfAbsent(new String[] { "train", "training" }, new TrainZoneCommand());
 		PLUGIN.putIfAbsent(new String[] { "chimera", "chimeraevent" }, new ChimeraCommand());
 		PLUGIN.putIfAbsent(new String[] { "medium", "mz", "mediumzone" }, new MediumZone());
-		PLUGIN.putIfAbsent(new String[] { "advanced", "adv", "advancedzone" }, new AdvancedZone());
+	//	PLUGIN.putIfAbsent(new String[] { "advanced", "adv", "advancedzone" }, new AdvancedZone());
 		PLUGIN.putIfAbsent(new String[] { "pouch" }, new PouchCommand());
 		PLUGIN.putIfAbsent(new String[] { "shops", "shop", }, new ShopCommand());
 		PLUGIN.putIfAbsent(new String[] { "drops", "drop", "droplist", "droptable" }, new DropsCommand());
@@ -231,19 +231,19 @@ public class CommandManager {
 		PLUGIN.putIfAbsent(new String[] { "moneyguide", "guide", "giveaway"}, new YouTubeCommand());
 		PLUGIN.putIfAbsent(new String[] { "soloraids1"}, new SoloRaids1Command());
 		PLUGIN.putIfAbsent(new String[] { "soloraids2"}, new SoloRaids2Command());
-		PLUGIN.putIfAbsent(new String[] { "soloraids3"}, new SoloRaids3Command());
-		PLUGIN.putIfAbsent(new String[] { "soloraids4"}, new SoloRaids4Command());
-		PLUGIN.putIfAbsent(new String[] { "soloraids5"}, new SoloRaids5Command());
+	//	PLUGIN.putIfAbsent(new String[] { "soloraids3"}, new SoloRaids3Command());
+	//	PLUGIN.putIfAbsent(new String[] { "soloraids4"}, new SoloRaids4Command());
+	//	PLUGIN.putIfAbsent(new String[] { "soloraids5"}, new SoloRaids5Command());
 		PLUGIN.putIfAbsent(new String[] { "rewards"}, new RewardsListCommand());
-		PLUGIN.putIfAbsent(new String[] { "raids3"}, new Raids3Command());
-		PLUGIN.putIfAbsent(new String[] { "raids4"}, new Raids4Command());
-		PLUGIN.putIfAbsent(new String[] { "raids5"}, new Raids5Command());
+	//	PLUGIN.putIfAbsent(new String[] { "raids3"}, new Raids3Command());
+	//	PLUGIN.putIfAbsent(new String[] { "raids4"}, new Raids4Command());
+	//	PLUGIN.putIfAbsent(new String[] { "raids5"}, new Raids5Command());
 		PLUGIN.putIfAbsent(new String[] { "avov1", "avo1"}, new Avo1Command());
 		PLUGIN.putIfAbsent(new String[] { "avov2", "avo2"}, new Avo2Command());
 		PLUGIN.putIfAbsent(new String[] { "avov3", "avo3"}, new Avo3Command());
 		PLUGIN.putIfAbsent(new String[] { "avov4", "avo4"}, new Avo4Command());
-		PLUGIN.putIfAbsent(new String[] { "zombiesolo", "zs", "zombieraidsolo"}, new ZombieRaidCommand());
-		PLUGIN.putIfAbsent(new String[] { "duozombie", "duozo", "duozombieraid"}, new DuoZombieRaidCommand());
+	//	PLUGIN.putIfAbsent(new String[] { "zombiesolo", "zs", "zombieraidsolo"}, new ZombieRaidCommand());
+	//	PLUGIN.putIfAbsent(new String[] { "duozombie", "duozo", "duozombieraid"}, new DuoZombieRaidCommand());
 
 
 		/*
@@ -252,9 +252,9 @@ public class CommandManager {
 		PLUGIN.putIfAbsent(new String[] { "sponsor", "sponsorstore" }, new SponsorStoreCommand());
 		PLUGIN.putIfAbsent(new String[] { "bank", "banks" }, new DonatorBankCommand());
 		PLUGIN.putIfAbsent(new String[] { "donatorzone1", "dzone1" }, new NewDZoneCommandOne());
-		PLUGIN.putIfAbsent(new String[] { "donatorzone2", "dzone2" }, new NewDZoneCommandTwo());
-		PLUGIN.putIfAbsent(new String[] { "donatorzone3", "dzone3" }, new NewDZoneCommandThree());
-		PLUGIN.putIfAbsent(new String[] { "donatorzone4", "dzone4" }, new NewDZoneCommandFour());
+	//	PLUGIN.putIfAbsent(new String[] { "donatorzone2", "dzone2" }, new NewDZoneCommandTwo());
+	//	PLUGIN.putIfAbsent(new String[] { "donatorzone3", "dzone3" }, new NewDZoneCommandThree());
+	//	PLUGIN.putIfAbsent(new String[] { "donatorzone4", "dzone4" }, new NewDZoneCommandFour());
 		PLUGIN.putIfAbsent(new String[] { "portals", "portalzone" }, new PortalsZoneCommand());
 		PLUGIN.putIfAbsent(new String[] { "yell", "shout" }, new DonatorYellCommand());
 		PLUGIN.putIfAbsent(new String[] { "ez", "extremezone","ezone" }, new ExtremeDonatorZone());
