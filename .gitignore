@@ -1,2 +1,5 @@
 /.gradle/
 *.class
+data/content/game/game_records.json
+data/content/game/world.json
+data/info.log
