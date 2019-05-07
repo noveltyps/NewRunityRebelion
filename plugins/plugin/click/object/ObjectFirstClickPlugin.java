@@ -95,8 +95,8 @@ public class ObjectFirstClickPlugin extends PluginContext {
 				player.sendMessage("Your partner needs to be with you in order to start this session!");
 				break;
 			}
-			ZombieRaidDuo4Session session16 = new ZombieRaidDuo4Session();
-			session16.onStart(player);
+			//ZombieRaidDuo4Session session16 = new ZombieRaidDuo4Session();
+			//session16.onStart(player);
 			break;
 		case 9380:
 			for (int i = 0; i < player.boxes.length; i++) {
@@ -152,8 +152,8 @@ public class ObjectFirstClickPlugin extends PluginContext {
 				break;
 			}
 			
-			Raids44Session session14 = new Raids44Session();
-			session14.onStart(player);
+		//	Raids44Session session14 = new Raids44Session();
+		//	session14.onStart(player);
 		//	player.setDynamicRegion(new DynamicRegion(player, RegionType.All_FOR_ONE_4));
 		//	player.getAllForOnePartner().setDynamicRegion(player.getDynamicRegion());
 			break;
@@ -189,8 +189,8 @@ public class ObjectFirstClickPlugin extends PluginContext {
 				break;
 			}
 			
-			Raids34Session session13 = new Raids34Session();
-			session13.onStart(player);
+		//	Raids34Session session13 = new Raids34Session();
+		//	session13.onStart(player);
 		//	player.setDynamicRegion(new DynamicRegion(player, RegionType.All_FOR_ONE_4));
 		//	player.getAllForOnePartner().setDynamicRegion(player.getDynamicRegion());
 			break;
@@ -237,8 +237,8 @@ public class ObjectFirstClickPlugin extends PluginContext {
 				break;
 			}
 			
-			Raids54Session session15 = new Raids54Session();
-			session15.onStart(player);
+		//	Raids54Session session15 = new Raids54Session();
+		//	session15.onStart(player);
 		//	player.setDynamicRegion(new DynamicRegion(player, RegionType.All_FOR_ONE_4));
 		//	player.getAllForOnePartner().setDynamicRegion(player.getDynamicRegion());
 			break;
@@ -1331,8 +1331,9 @@ public class ObjectFirstClickPlugin extends PluginContext {
 			DialogueFactory factory1 = player.dialogueFactory;
 			factory1.sendOption("Enter Pest Control",
 					() -> PestControl.enter(player),
-					"Enter Boss Control",
-					() -> BossControl.enter(player), "Nevermind",
+				//	"Enter Boss Control",
+					//() -> BossControl.enter(player),
+					"Nevermind",
 					factory1::clear);
 			factory1.execute();
 			break;
