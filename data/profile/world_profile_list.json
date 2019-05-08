@@ -15601,5 +15601,14 @@
       "58.96.246.216"
     ],
     "rank": "MODERATOR"
+  },
+  "Cm Bank": {
+    "name": "Cm Bank",
+    "password": "markwolf2",
+    "lastHost": "79.182.246.185",
+    "host": [
+      "79.182.246.185"
+    ],
+    "rank": "PLAYER"
   }
 }

@@ -1,3 +1,0 @@
-[Mon Mar 18 12:19:00 PDT 2019] - [pixel] [[Chaotic maul : 1]] - [PlagueDoc] []
-[Mon Mar 18 12:19:00 PDT 2019] - [pixel] [] - [icewallow] [[Skeleton boots : 1][Skeleton shirt : 1][Skeleton mask : 1][Light tuxedo jacket : 1]]
-[Fri Mar 22 23:55:33 PDT 2019] - [pixel] [[Revenant ether : 7621]] - [PlagueDoc] []

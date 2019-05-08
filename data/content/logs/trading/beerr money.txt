@@ -1,2 +1,0 @@
-[Thu Feb 07 20:47:24 CET 2019] - [beerr money] [[Dragon boots : 1]] - [dfs] []
-[Thu Feb 07 20:47:24 CET 2019] - [beerr money] [[Bandos tassets : 1][Blood rune : 1000][Earth rune : 4000][Water rune : 5000][Super restore(4) : 75][Death rune : 4000]] - [dfs] []

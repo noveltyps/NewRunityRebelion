@@ -1,3 +1,0 @@
-[Sun Mar 24 19:52:16 PDT 2019] - [beefy] [] - [callMeTom] [[Super combat potion(4) : 1]]
-[Sun Mar 24 19:52:16 PDT 2019] - [beefy] [[Shark : 1][Shark : 1][Shark : 1][Shark : 1][Shark : 1][Shark : 1]] - [callMeTom] [[Dragon bones : 250][Armadyl chestplate : 1][Abyssal whip : 1][Dragon boots : 1][Amulet of fury : 1][Bandos tassets : 1][Bandos chestplate : 1][Berserker ring (i) : 1][Ahrim's armour set : 1][Verac's armour set : 1][Karil's armour set : 1][Torag's armour set : 1][Guthan's armour set : 1][Genie lamp : 1]]
-[Sun Mar 24 19:52:16 PDT 2019] - [beefy] [[Magic logs : 300]] - [callMeTom] [[Coins : 189594634]]

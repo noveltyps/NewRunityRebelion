@@ -127910,7 +127910,7 @@
 
 {
 					    "id": 17166,
-					    "name": "Flame Raptor Helm",
+					    "name": "Flame RebelionX Helm",
 "low-alch": 4000000,
     "high-alch": 4000000,
     "base-value": 4000000,
@@ -127939,7 +127939,7 @@
 
 				{
 						    "id": 17167,
-						    "name": "Flame Raptor Platebody",
+						    "name": "Flame RebelionX Platebody",
 "low-alch": 4000000,
     "high-alch": 4000000,
     "base-value": 4000000,
@@ -127964,7 +127964,7 @@
 
 				{
 							    "id": 17168,
-							    "name": "Flame Raptor Platelegs",
+							    "name": "Flame RebelionX Platelegs",
 "low-alch": 3000000,
     "high-alch": 4000000,
     "base-value": 5000000,
@@ -127991,7 +127991,7 @@
 
 {
 							    "id": 17163,
-							    "name": "Raptor Helm",
+							    "name": "RebelionX Helm",
 "low-alch": 200000,
 		    "high-alch": 300000,
 			    "base-value": 500000,
@@ -128016,7 +128016,7 @@
 
 						{
 								    "id": 17164,
-								    "name": "Raptor Platebody",
+								    "name": "RebelionX Platebody",
 "low-alch": 200000,
 		    "high-alch": 300000,
 			    "base-value": 500000,
@@ -128041,7 +128041,7 @@
 
 						{
 									    "id": 17165,
-									    "name": "Raptor Platelegs",
+									    "name": "RebelionX Platelegs",
 "low-alch": 200000,
 		    "high-alch": 300000,
 			    "base-value": 500000,
