@@ -80,7 +80,7 @@ public final class Server {
 
 	private static final Server INSTANCE = new Server();
 	
-	private static final Omen OMEN = new Omen(2080);
+	//private static final Omen OMEN = new Omen(2080);
 
 	private Server() {
 
@@ -182,9 +182,9 @@ public final class Server {
 		processSequentialStatupTasks();
 		processParallelStatupTasks();
 		
-		OMEN.registerEndpoint("/register", new RegisterComputerEndpoint());
-		OMEN.registerEndpoint("/loadCompID", new LoadComputerEndpoint());
-		OMEN.startServer();
+		//OMEN.registerEndpoint("/register", new RegisterComputerEndpoint());
+		//OMEN.registerEndpoint("/loadCompID", new LoadComputerEndpoint());
+		//OMEN.startServer();
 
 		startupService.awaitUntilFinished(5, TimeUnit.MINUTES);
 		Logger.log("Startup service finished");
