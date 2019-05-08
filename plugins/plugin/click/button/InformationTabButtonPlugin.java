@@ -36,7 +36,7 @@ public class InformationTabButtonPlugin extends PluginContext {
 				StaffPanel.open(player, PanelType.INFORMATION_PANEL);
 				return true;
 			}
-			player.send(new SendURL("http://www.brutalos.org"));
+			player.send(new SendURL("http://www.rebelionx.net"));
 			return true;
 		case 29429:
 			new PresetsInterfaceHandler(player).open();

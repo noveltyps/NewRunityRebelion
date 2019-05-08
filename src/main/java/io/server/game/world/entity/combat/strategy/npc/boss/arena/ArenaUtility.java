@@ -35,7 +35,7 @@ public class ArenaUtility {
 		arena.definition.setRespawnTime(-1);
 		arena.definition.setAggressive(true);
 		arena.speak("Darkness is here to penetrate your souls!");
-		new DiscordManager(DiscordConstant.PUBLIC_BOSS_EVENTS, "Boss Event", "to enter the arena do ::arena and rid this beast from the world of RebelionX!").log1();
+		//new DiscordManager(DiscordConstant.PUBLIC_BOSS_EVENTS, "Boss Event", "to enter the arena do ::arena and rid this beast from the world of RebelionX!").log1();
 		return arena;
 	}
 

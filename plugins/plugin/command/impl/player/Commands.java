@@ -9,7 +9,7 @@ public class Commands implements Command {
 
 	@Override
 	public void execute(Player player, String command, String[] parts) {
-		player.send(new SendURL("https://brutalos.org/forums/index.php?/topic/47-commands/&tab=comments#comment-107"));
+		player.send(new SendURL(""));
 		player.message("Opening command list!");
 	}
 

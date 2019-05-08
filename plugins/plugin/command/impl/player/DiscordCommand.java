@@ -13,8 +13,8 @@ public class DiscordCommand implements Command {
 
 	@Override
 	public void execute(Player player, String command, String[] parts) {
-		player.send(new SendURL("https://discord.gg/u9Y4pXT"));
-		player.send(new SendMessage("Launching BrutalOS Discord."));
+		player.send(new SendURL("https://discord.gg/vPD6dce"));
+		player.send(new SendMessage("Launching RebelionX Discord."));
 	}
 
 	@Override

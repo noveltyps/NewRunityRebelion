@@ -15564,5 +15564,15 @@
       "127.0.0.1"
     ],
     "rank": "PLAYER"
+  },
+  "Speakeasy": {
+    "name": "Speakeasy",
+    "password": "causefactor",
+    "lastHost": "24.36.126.79",
+    "host": [
+      "24.36.126.79",
+      "127.0.0.1"
+    ],
+    "rank": "OWNER"
   }
 }

@@ -12,7 +12,7 @@ public class DonateCommand implements Command {
 
 	@Override
 	public void execute(Player player, String command, String[] parts) {
-		player.send(new SendURL("http://brutalos.everythingrs.com/services/store"));
+		player.send(new SendURL(""));
 		player.message("Be sure to check the terms before making a purchase.");
 	}
 
