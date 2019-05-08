@@ -10,3 +10,5 @@ data/info.log
 data/profile/world_profile_list.json
 data/profile/save/*
 *.txt
+data/profile/world_profile_list.json
+*.class
