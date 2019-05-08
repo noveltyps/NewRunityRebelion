@@ -349,10 +349,7 @@ public class Raids extends Activity {
 
 	@Override
 	public void cleanup() {
-		
-		if (player != null || partners.size() > 0)
-			return;
-		
+			
 		if (player != null)
 			ActivityPanel.clear(player);
 		for (Player p : partners)
@@ -404,7 +401,7 @@ public class Raids extends Activity {
 			if (partners.contains(player))
 				partners.remove(player);
 			
-			if (this.player == null && partners.size() <= 0)
+			
 				cleanup();
 			
 			remove(player);
@@ -425,7 +422,7 @@ public class Raids extends Activity {
 
 	@Override
 	public void onLogout(Player player) {
-		if (this.player == null && partners.size() <= 0)
+		
 			finish();
 		remove(player);
 //		remove(other);
