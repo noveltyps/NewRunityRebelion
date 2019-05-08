@@ -98,7 +98,7 @@ public final class Server {
 		try {
 			Logger.log("Preparing Object/Region Decoding... ");
 			new ObjectRemovalParser().run();
-			FileSystem fs = FileSystem.create(System.getProperty("user.home") + "/RebellionXCache/");
+			FileSystem fs = FileSystem.create(System.getProperty("user.home") + "/RebelionXCache/");
 			new ObjectDefinitionDecoder(fs).run();
 			new MapDefinitionDecoder(fs).run();
 			new RegionDecoder(fs).run();
