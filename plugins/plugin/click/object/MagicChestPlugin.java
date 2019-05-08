@@ -53,7 +53,7 @@ public class MagicChestPlugin extends PluginContext {
 
 	@Override
 	protected boolean itemOnObject(Player player, ItemOnObjectEvent event) {
-		if (event.getUsed().getId() == 989 && event.getObject().getId() == 13291) {
+		if (event.getUsed().getId() == 1547 && event.getObject().getId() == 13291) {
 			if (!player.inventory.contains(CrystalChest.MKEY)) {
 				player.dialogueFactory.sendItem("Magic Key", "You need a magic key to enter this chest!",
 						CrystalChest.MKEY.getId());
