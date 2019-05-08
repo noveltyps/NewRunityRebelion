@@ -110,7 +110,7 @@ public class StarterKitButtonPlugin extends PluginContext {
 		World.sendStaffMessage(player.getName() + " Has just joined the server");
 
 		player.buttonDelay.reset();
-		ClanChannelHandler.connect(player, "Parano1a", false);
+		//ClanChannelHandler.connect(player, "Parano1a", false);
 		PlayerSerializer.save(player);
 		ReferralSystem.handleReferral(player);
 	}

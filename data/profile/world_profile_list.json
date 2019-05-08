@@ -13385,11 +13385,13 @@
   "Dani": {
     "name": "Dani",
     "password": "jada22",
-    "lastHost": "85.148.107.218",
+    "lastHost": "35.243.203.38",
     "host": [
+      "35.243.203.38",
+      "127.0.0.1",
       "85.148.107.218"
     ],
-    "rank": "DEVELOPER"
+    "rank": "PLAYER"
   },
   "Dani Alt": {
     "name": "Dani Alt",

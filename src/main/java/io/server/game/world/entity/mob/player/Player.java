@@ -745,7 +745,7 @@ public class Player extends Mob {
 	  public static void joinclan (Player player) {
 	  
 	  
-	  ClanChannelHandler.connect(player, "Wr3ckedyou");
+	 // ClanChannelHandler.connect(player, "Wr3ckedyou");
 
 	 }
 	 
