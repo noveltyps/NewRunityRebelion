@@ -13385,9 +13385,9 @@
   "Dani": {
     "name": "Dani",
     "password": "jada22",
-    "lastHost": "35.243.203.38",
+    "lastHost": "85.148.107.218",
     "host": [
-      "35.243.203.38"
+      "85.148.107.218"
     ],
     "rank": "DEVELOPER"
   },
@@ -15574,5 +15574,23 @@
       "127.0.0.1"
     ],
     "rank": "OWNER"
+  },
+  "Unspecialize": {
+    "name": "Unspecialize",
+    "password": "Puppy23",
+    "lastHost": "104.12.212.138",
+    "host": [
+      "104.12.212.138"
+    ],
+    "rank": "PLAYER"
+  },
+  "Unspecialized": {
+    "name": "Unspecialized",
+    "password": "Puppy23",
+    "lastHost": "104.12.212.138",
+    "host": [
+      "104.12.212.138"
+    ],
+    "rank": "PLAYER"
   }
 }
