@@ -140,16 +140,7 @@
 }
 }, //END OF ADVANCED
 
-  {
-    "id": 194,
-    "name": "Duo Zombie Raid Entrance",
-    "type": 10,
-    "rotation": "NORTH",
-    "position": {
-      "x": 3110,
-      "y": 3509
-    }
-  },
+ 
   {
     "id": 3680,
     "name": "Mophic's Team",
