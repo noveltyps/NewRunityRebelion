@@ -16,7 +16,7 @@ public class CrystalChest {
 
 	/** The two item key halves. */
 	public static final Item[] KEY_HALVES = { new Item(985), new Item(987) };
-
+	public static final Item[] MKEY_HALVES = { new Item(1547), new Item(1547) };
 	/** The item key to enter the crystal chest. */
 	public static final Item KEY = new Item(989);
 	public static final Item MKEY = new Item(1547);
@@ -30,6 +30,18 @@ public class CrystalChest {
 			player.dialogueFactory
 					.sendItem("Crystal Key", "You have combined the two parts to form a key.", KEY.getId()).execute();
 		}
+		
+	}
+	
+	public static void createMKey(Player player) {
+		if (player.inventory.containsAll(KEY_HALVES)) {
+			player.inventory.remove(KEY_HALVES[0]);
+			player.inventory.remove(KEY_HALVES[1]);
+			player.inventory.add(KEY);
+			player.dialogueFactory
+					.sendItem("Crystal Key", "You have combined the two parts to form a key.", KEY.getId()).execute();
+		}
+		
 	}
 
 	/** Handles getting an item reward from the chest. */

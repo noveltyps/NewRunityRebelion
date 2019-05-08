@@ -24,7 +24,17 @@ public class MagicChestPlugin extends PluginContext {
 			CrystalChest.createKey(player);
 			return true;
 		}
+		
+		if (event.getUsed().getId() == 1547 && event.getWith().getId() == 1547) {
+			valid = true;
+		} else if (event.getUsed().getId() == 1547 && event.getWith().getId() == 1547) {
+			valid = true;
+		}
 
+		if (valid) {
+			CrystalChest.createKey(player);
+			return true;
+		}
 		return false;
 	}
 
