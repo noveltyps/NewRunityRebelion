@@ -1,4 +1,4 @@
-[
+﻿[
 {
     "name": "Referral Point Store",
     "currency": "REFFERAL_POINTS",
@@ -5976,11 +5976,6 @@
         "id": 16649,
         "amount": 1000,
         "value": 2500
-      },
-       {
-        "id": 15310,
-        "amount": 1000,
-        "value": 3800
       },
         {
         "id": 13173,
