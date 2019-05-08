@@ -12,3 +12,4 @@ data/profile/save/*
 *.txt
 data/profile/world_profile_list.json
 *.class
+*.class
