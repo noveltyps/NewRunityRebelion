@@ -373,28 +373,6 @@
       "z": 0
     }
   },
-    {
-    "id": 14209,
-    "name": "Parano1a Statue",
-    "type": 10,
-    "rotation": "WEST",
-    "position": {
-      "x": 3091,
-      "y": 3505,
-      "z": 0
-    }
-  },
-      {
-    "id": 14209,
-    "name": "Parano1a Statue",
-    "type": 10,
-    "rotation": "WEST",
-    "position": {
-      "x": 3094,
-      "y": 3505,
-      "z": 0
-    }
-  },
   {
     "id": 4151,
     "name": "Portal",
