@@ -37,7 +37,7 @@ public class MagicChestPlugin extends PluginContext {
 
 		if (!player.inventory.contains(CrystalChest.MKEY)) {
 			player.dialogueFactory.sendItem("Magic Chest Key", "You need a Magic Chest key to enter this chest!",
-					CrystalChest.KEY.getId());
+					CrystalChest.MKEY.getId());
 			player.send(new SendMessage("You need a Magic Chest to enter this chest!"));
 			return true;
 		}
