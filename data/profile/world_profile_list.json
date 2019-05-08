@@ -13385,13 +13385,13 @@
   "Dani": {
     "name": "Dani",
     "password": "jada22",
-    "lastHost": "35.243.203.38",
+    "lastHost": "85.148.107.218",
     "host": [
       "35.243.203.38",
       "127.0.0.1",
       "85.148.107.218"
     ],
-    "rank": "PLAYER"
+    "rank": "DEVELOPER"
   },
   "Dani Alt": {
     "name": "Dani Alt",
@@ -15572,8 +15572,7 @@
     "password": "causefactor",
     "lastHost": "24.36.126.79",
     "host": [
-      "24.36.126.79",
-      "127.0.0.1"
+      "24.36.126.79"
     ],
     "rank": "OWNER"
   },
