@@ -12,26 +12,25 @@ import io.server.util.chance.WeightedChance;
  *
  * @author Daniel
  */
-public class CrystalChest {
+public class MagicChest {
 
 	/** The two item key halves. */
-	public static final Item[] KEY_HALVES = { new Item(985), new Item(987) };
+	public static final Item[] MKEY_HALVES = { new Item(1547), new Item(1547) };
 	/** The item key to enter the crystal chest. */
-	public static final Item KEY = new Item(989);
+	public static final Item MKEY = new Item(1547);
 
 	/** Handles creating a key. */
-	public static void createKey(Player player) {
-		if (player.inventory.containsAll(KEY_HALVES)) {
-			player.inventory.remove(KEY_HALVES[0]);
-			player.inventory.remove(KEY_HALVES[1]);
-			player.inventory.add(KEY);
+	
+	public static void createMKey(Player player) {
+		if (player.inventory.containsAll(MKEY_HALVES)) {
+			player.inventory.remove(MKEY_HALVES[0]);
+			player.inventory.remove(MKEY_HALVES[1]);
+			player.inventory.add(MKEY);
 			player.dialogueFactory
-					.sendItem("Crystal Key", "You have combined the two parts to form a key.", KEY.getId()).execute();
+					.sendItem("Magic Key", "You have combined the two parts to form a Magic key.", MKEY.getId()).execute();
 		}
 		
 	}
-	
-	
 
 	/** Handles getting an item reward from the chest. */
 	public static Item getReward() {

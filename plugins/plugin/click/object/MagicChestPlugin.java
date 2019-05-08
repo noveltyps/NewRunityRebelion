@@ -1,7 +1,9 @@
 package plugin.click.object;
 
 import io.server.content.CrystalChest;
+import io.server.content.MagicChest;
 import io.server.game.action.impl.CrystalChestAction;
+import io.server.game.action.impl.MagicChestAction;
 import io.server.game.event.impl.ItemOnItemEvent;
 import io.server.game.event.impl.ItemOnObjectEvent;
 import io.server.game.event.impl.ObjectClickEvent;
@@ -24,17 +26,7 @@ public class MagicChestPlugin extends PluginContext {
 			CrystalChest.createKey(player);
 			return true;
 		}
-		
-		if (event.getUsed().getId() == 1547 && event.getWith().getId() == 1547) {
-			valid = true;
-		} else if (event.getUsed().getId() == 1547 && event.getWith().getId() == 1547) {
-			valid = true;
-		}
 
-		if (valid) {
-			CrystalChest.createKey(player);
-			return true;
-		}
 		return false;
 	}
 
@@ -45,9 +37,9 @@ public class MagicChestPlugin extends PluginContext {
 			return false;
 		}
 
-		if (!player.inventory.contains(CrystalChest.MKEY)) {
+		if (!player.inventory.contains(MagicChest.MKEY)) {
 			player.dialogueFactory.sendItem("Magic Chest Key", "You need a Magic Chest key to enter this chest!",
-					CrystalChest.MKEY.getId());
+					CrystalChest.KEY.getId());
 			player.send(new SendMessage("You need a Magic Chest to enter this chest!"));
 			return true;
 		}
@@ -64,9 +56,9 @@ public class MagicChestPlugin extends PluginContext {
 	@Override
 	protected boolean itemOnObject(Player player, ItemOnObjectEvent event) {
 		if (event.getUsed().getId() == 1547 && event.getObject().getId() == 13291) {
-			if (!player.inventory.contains(CrystalChest.MKEY)) {
+			if (!player.inventory.contains(MagicChest.MKEY)) {
 				player.dialogueFactory.sendItem("Magic Key", "You need a magic key to enter this chest!",
-						CrystalChest.MKEY.getId());
+						MagicChest.MKEY.getId());
 				player.send(new SendMessage("You need a magic key to enter this chest!"));
 				return true;
 			}
@@ -76,7 +68,7 @@ public class MagicChestPlugin extends PluginContext {
 				return true;
 			}
 
-			player.action.execute(new CrystalChestAction(player), true);
+			player.action.execute(new MagicChestAction(player), true);
 			return true;
 		}
 

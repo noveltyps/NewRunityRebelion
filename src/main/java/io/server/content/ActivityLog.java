@@ -17,7 +17,7 @@ public enum ActivityLog {
 	SECRETS_CHEST_2,
 	SECRETS_CHEST_3,
 	SECRETS_CHEST_4,
-	
+	MAGIC_CHEST,
 	
 	
 	/* Activities */
