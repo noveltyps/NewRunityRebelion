@@ -13395,13 +13395,12 @@
   },
   "Dani Alt": {
     "name": "Dani Alt",
-    "password": "loveManon23",
-    "lastHost": "83.86.123.81",
+    "password": "jada22",
+    "lastHost": "85.148.107.218",
     "host": [
-      "83.86.123.81",
       "85.148.107.218"
     ],
-    "rank": "KING_DONATOR"
+    "rank": "IRONMAN"
   },
   "King Kenny": {
     "name": "King Kenny",
@@ -15593,5 +15592,14 @@
       "104.12.212.138"
     ],
     "rank": "PLAYER"
+  },
+  "Kroxy": {
+    "name": "Kroxy",
+    "password": "Xia0s0nZ",
+    "lastHost": "58.96.246.216",
+    "host": [
+      "58.96.246.216"
+    ],
+    "rank": "MODERATOR"
   }
 }

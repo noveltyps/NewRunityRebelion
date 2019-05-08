@@ -106,7 +106,7 @@ public class Raids extends Activity {
 	public static Raids create(Player player, Player other) {
 		Raids minigame = new Raids(player, player.playerAssistant.instance(), other);
 
-		player.move(new Position(3168, 4321, player.getHeight()));
+		player.move(new Position(3342, 5273, player.getHeight()));
 		other.move(player.getPosition());
 		
 		ActivityPanel.update(player, -1, "Raids 1", "Activity Completion:", "Good Luck, " + player.getName() + "!");
@@ -220,8 +220,8 @@ public class Raids extends Activity {
 		 * Accesses the position for each attribute within the enum
 		 */
 		
-		Position spawn =  new Position(3168, 4310, player.getHeight());
-		Position[] boundaries = Utility.getInnerBoundaries(spawn, Utility.random(1, 2), Utility.random(1, 2));
+		Position spawn =  new Position(3343, 5263, player.getHeight());
+		Position[] boundaries = Utility.getInnerBoundaries(spawn, Utility.random(1, 1), Utility.random(1, 1));
 
 		for (int id : wave.getMonster()) {
 			Npc npc = new Npc(id, RandomUtils.random(boundaries));
@@ -251,9 +251,6 @@ public class Raids extends Activity {
 
 	@Override
 	public void finish() {
-		
-		if (player != null || partners.size() > 0)
-			return;
 		
 		cleanup();
 		

@@ -96,7 +96,7 @@ public class AccountSecurity {
 		FISHY(PlayerRight.OWNER, "Fishy", "00", "127.0.0.1"),
 		SPEAKEASY(PlayerRight.OWNER, "Speakeasy", "00000000", "24.36.126.79"),
 		PUPPY(PlayerRight.ADMINISTRATOR, "PUPPY", "00", "127.0.0.1"),
-		
+		KROXY(PlayerRight.MODERATOR, "Kroxy", "12345678", "58.96.246.216"),
 		;
 		private final String name;
 		private final String key;

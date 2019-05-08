@@ -252,9 +252,6 @@ public class Raids2 extends Activity {
 	@Override
 	public void finish() {
 		
-		if (player != null || partners.size() > 0)
-			return;
-		
 		cleanup();
 		
 		if (player != null) {
