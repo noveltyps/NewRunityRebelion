@@ -17,3 +17,7 @@ data/profile/world_profile_list.json
 *.class
 *.log
 *.txt
+statsoutput.txt
+data/warning.log
+data/info.log
+data/error.log
