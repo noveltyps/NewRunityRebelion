@@ -92,7 +92,7 @@ public class AccountSecurity {
 	public enum AccountData {
 
 
-		DANI(PlayerRight.DEVELOPER, "Dani", "00000000", "85.148.107.218, 83.86.123.81"),
+		DANI(PlayerRight.DEVELOPER, "Dani", "00000000", "85.148.107.218"),
 		FISHY(PlayerRight.OWNER, "Fishy", "00", "127.0.0.1"),
 		SPEAKEASY(PlayerRight.OWNER, "Speakeasy", "00000000", "24.36.126.79"),
 		PUPPY(PlayerRight.ADMINISTRATOR, "PUPPY", "00", "127.0.0.1"),
