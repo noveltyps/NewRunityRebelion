@@ -19,9 +19,11 @@ public final class MagicChestAction extends Action<Player> {
 
 	//private final GameObject object;
 
+	private int object;
+
 	public MagicChestAction(Player player/*, GameObject object*/) {
 		super(player, 1);
-		//this.object = object;
+		this.setObject(2191);
 	}
 
 	@Override
@@ -60,5 +62,13 @@ public final class MagicChestAction extends Action<Player> {
 	@Override
 	public WalkablePolicy getWalkablePolicy() {
 		return WalkablePolicy.NON_WALKABLE;
+	}
+
+	public int getObject() {
+		return object;
+	}
+
+	public void setObject(int object) {
+		this.object = object;
 	}
 }

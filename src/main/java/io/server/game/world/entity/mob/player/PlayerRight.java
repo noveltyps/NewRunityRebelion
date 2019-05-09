@@ -16,7 +16,7 @@ public enum PlayerRight {
     GLOBAL_MODERATOR("Global Moderator", "96039F", 1, -1, 4116),
     ADMINISTRATOR("Administrator", "D17417", 2, -1, 4116), 
     DEVELOPER("Developer", "4070FF", 4, -1, 4117),
-    OWNER("Owner", "ED0C0C", 4, -1, 4117),
+    OWNER("Owner", "ED0C0C", 3, -1, 4117),
     
 
     DONATOR("Donator", "9C4B2F", 5, 10, 4112), 

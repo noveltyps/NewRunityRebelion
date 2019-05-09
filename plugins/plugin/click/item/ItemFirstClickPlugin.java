@@ -161,7 +161,7 @@ public class ItemFirstClickPlugin extends PluginContext { // etest
 				player.inventory.add(17164, 1);
 				player.inventory.add(17165, 1);
 				player.inventory.add(3273, 1);
-				player.message("@gre@You were lucky and received 5 Million GP! & Raptor Set!");
+				player.message("@gre@You were lucky and received 5 Million GP! & RebelionX Set!");
 				return false;
 			}
 			if (Utility.random(1, 10) <= 2) {
@@ -195,7 +195,7 @@ public class ItemFirstClickPlugin extends PluginContext { // etest
 				player.inventory.add(17166, 1);
 				player.inventory.add(17167, 1);
 				player.inventory.add(17168, 1);
-				player.message("@red@A Flame Raptor Set!");
+				player.message("@red@A Flame RebelionX Set!");
 				return false;
 			}
 			player.message("you were unfortunate and did not recieve anything.");
