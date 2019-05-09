@@ -1,6 +1,0 @@
-[Sun Dec 23 13:32:13 PST 2018] - [MAXED] [[Ancestral robe top : 1]] - [fishy] []
-[Mon Jan 28 06:13:47 CET 2019] - [MAXED] [] - [Parano1a] [[Impling jar : 1]]
-[Mon Jan 28 06:20:38 CET 2019] - [MAXED] [] - [Parano1a] [[Butterfly jar : 1]]
-[Mon Jan 28 06:40:30 CET 2019] - [maxed] [] - [Parano1a] [[Butterfly net : 1][Butterfly jar : 1]]
-[Mon Jan 28 06:40:30 CET 2019] - [maxed] [] - [Parano1a] [[Impling jar : 1]]
-[Sat Feb 23 13:32:33 PST 2019] - [MAXED] [[Coins : 10099999][Samurai shirt : 1][Amulet of torture : 1][Magma shield : 1][Ghrazi Rapier : 1][Ring of wealth (i) : 1][Samurai gloves : 1][Samurai boots : 1][Samurai kasa : 1][Samurai greaves : 1]] - [Fishy] []

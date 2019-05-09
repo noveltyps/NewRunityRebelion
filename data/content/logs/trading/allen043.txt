@@ -1,8 +1,0 @@
-[Tue Feb 19 05:12:12 PST 2019] - [allen043] [] - [Lucy] [[Starter Box : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [allen043] [] - [trueism] [[Ring of wealth : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [allen043] [[Lobster : 1][Lobster : 1]] - [john] []
-[Tue Feb 19 05:12:12 PST 2019] - [allen043] [[Antifire potion(3) : 1]] - [john] []
-[Tue Feb 19 05:12:12 PST 2019] - [allen043] [] - [john] [[Helm of neitiznot : 1]]
-[Thu Feb 21 15:58:34 PST 2019] - [allen043] [] - [Avoid Eaz] [[Toxic blowpipe (empty) : 1]]
-[Thu Feb 21 15:58:34 PST 2019] - [allen043] [] - [Avoid Eaz] [[Zulrah's scales : 400]]
-[Thu Feb 21 15:58:34 PST 2019] - [allen043] [] - [Faithupon] [[Raptor Helm : 1][Dharok's platelegs : 1]]

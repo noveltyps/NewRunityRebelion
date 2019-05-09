@@ -1,8 +1,0 @@
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [] - [wr3ckedyou] [[Bronze mystery box : 1][Bronze mystery box : 1][Bronze mystery box : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [] - [boekenkast] [[Amulet of fury : 1][Dragon boots : 1][Raptor Helm : 1][Raptor Platebody : 1][Bandos godsword : 1][Raptor Platelegs : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [] - [ryuk] [[Raptor Platebody : 1][Raptor Helm : 1][Raptor Platelegs : 1][Toxic staff of the dead : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [] - [ryuk] [[Abyssal tentacle : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [] - [0069] [[Ring of wealth : 1][Amulet of fury : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [] - [Faithupon] [[Raptor Platebody : 1][Raptor Helm : 1][Raptor Platelegs : 1][Chaotic Rapier : 1][Leaf-bladed battleaxe : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [] - [Lucifer] [[Ring of wealth : 1]]
-[Tue Feb 19 05:12:12 PST 2019] - [lord] [[Chaotic Rapier : 1]] - [icallhax] [[Chaotic maul : 1]]
